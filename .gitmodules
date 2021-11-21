@@ -1,3 +1,0 @@
-[submodule "GNN_Pisa_Nov2021/keras-deep-graph-learning"]
-	path = GNN_Pisa_Nov2021/keras-deep-graph-learning
-	url = https://github.com/vermaMachineLearning/keras-deep-graph-learning.git
